@@ -69,3 +69,7 @@ nav a {
 nav a:hover {
     color: #00ffd5;
 }
+
+p {
+    margin-bottom: 15px;
+}
