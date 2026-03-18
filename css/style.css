@@ -40,3 +40,12 @@ h2 {
 ul li {
     margin: 10px 0;
 }
+
+a {
+    color: #00ffd5;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00bfa6;
+}
